@@ -1,0 +1,6 @@
+Schema—
+date_of_interest, string, specific date for the data 
+case_count, int, number of cases that occurred on that 
+hospitalized_count, int, number of people hospitalized due to covid
+death_count, int, number of deaths due to covid
+
